@@ -1,4 +1,4 @@
-//Creado por: Miguel Angel Bennett
+//Modificado por: Miguel Angel Bennett
 #include<iostream>
 using namespace std;
 
