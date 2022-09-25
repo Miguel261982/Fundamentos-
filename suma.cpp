@@ -1,16 +1,16 @@
-//Creado por Miguel Bennettn
+//Creado por: Miguel Angel Bennett
 #include<iostream>
 using namespace std;
 
 int main()
 {
 
-float x,y,z;
-cout<<"Ingrese 2 numero x y :";
-cin>>x>>y;
-z=x+y;
+float M,B,V;
+cout<<"Ingrese 2 numero M B :";
+cin>>M>>B;
+V=M+B;
 cout<<"El resultado es : ";
-cout<<z<<endl;
+cout<<V<<endl;
 
 return 0;
 
