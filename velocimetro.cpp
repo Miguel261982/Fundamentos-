@@ -1,14 +1,14 @@
-//Creador: Miguel Bennett
+//Modificadopor: Miguel Angel Bennett Valencia 
 #include<iostream>
 using namespace std;
 
 int main()
 {
-        float v,d,t;
- 	cout<<"Ingrese la distancia(en km) d= "; cin>>d;
- 	cout<<"Ingrese el tiempo(en horas) t= "; cin>>t;
-	v=d/t;
-	cout<<"La velocidad calculada es de v= "<<t<<endl<<endl;
+        float M,B,A;
+ 	cout<<"Ingrese la distancia(en km) B= "; cin>>B;
+ 	cout<<"Ingrese el tiempo(en horas) A= "; cin>>A;
+	M=B/A;
+	cout<<"La velocidad calculada es de M= "<<A<<endl<<endl;
 	return 0;
 
    
